@@ -29,13 +29,6 @@ const events = [
         link:"https://us02web.zoom.us/j/82897733166"        
     },
     {
-        date: new Date("14 February 2021 13:00:00 CST").toJSON(),
-        title:"Code Together with James Quick",
-        content:"James Q. Quick is hosting a code-together where you can get help with code, or get advice on tech careers and startups.",
-        rsvp:"https://www.meetup.com/memphis-technology-user-groups/events/cmvhwryccdbsb/",
-        link:"https://us02web.zoom.us/j/87355514558"
-    },
-    {
         date: new Date("15 February 2021 12:00:00 CST").toJSON(),
         title:"Happy Lunch Hour",
         content:"If you're interested in meeting with other developers and chatting about tech, life, etc. during your lunch break, you're more than welcome join us at our virtual table",
@@ -51,8 +44,8 @@ const events = [
     },
     {
         date: new Date("23 February 2021 18:30:00 CST").toJSON(),
-        title:"Code Co-op",
-        content:"This isn't a class, but it is your opportunity to talk with other people in the community and get help jumpstarting your learning process or with a programming lesson / personal project you've been working on.",
+        title:"Code Co-op | Memphis - Women in Tech Panel",
+        content:"This is your opportunity to hear from women in the field. Be prepared to gain insights into the tech field from a variety of unique perspectives. Panelist will describe their place in the tech community and how they got there as well as answer questions from the audience!",
         rsvp:"https://www.meetup.com/memphis-technology-user-groups/events/wbgfwryccdbfc/",
         link:"https://us02web.zoom.us/j/82917482160"        
     },
