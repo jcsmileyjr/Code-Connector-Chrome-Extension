@@ -29,13 +29,6 @@ const events = [
         link:"https://us02web.zoom.us/j/82897733166"        
     },
     {
-        date: new Date("13 February 2021 13:00:00 CST").toJSON(),
-        title:"Code Together with James Quick",
-        content:"James Q. Quick is hosting a code-together where you can get help with code, or get advice on tech careers and startups.",
-        rsvp:"https://www.meetup.com/memphis-technology-user-groups/events/cmvhwryccdbsb/",
-        link:"https://us02web.zoom.us/j/87355514558"
-    },
-    {
         date: new Date("15 February 2021 12:00:00 CST").toJSON(),
         title:"Happy Lunch Hour",
         content:"If you're interested in meeting with other developers and chatting about tech, life, etc. during your lunch break, you're more than welcome join us at our virtual table",
